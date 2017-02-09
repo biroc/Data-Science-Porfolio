@@ -1,0 +1,9 @@
+numpy
+pandas
+sqlite3
+sklearn
+matplotlib
+time
+tensorflow
+keras
+htf5

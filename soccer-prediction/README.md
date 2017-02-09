@@ -16,8 +16,8 @@ Predict 2008-2016 soccer game results(Win/Draw/Lose) of 11 European lead league 
 Result
 ----------------------
 
-The Deep FNN gives us 53.19% Accuracy in test set and 53.12% accuracy in validation.
-The Random Forest gives us 46.5% Accuracy in test set
+The Deep FNN gives us 53.86% Accuracy in test set and 53.12% accuracy in validation set.
+The Random Forest gives us 50.42% Accuracy in test set and 50.33% accuracy in validation set.
 
 Installation
 ----------------------
