@@ -13,6 +13,12 @@ Predict 2008-2016 soccer game results(Win/Draw/Lose) of 11 European lead league 
 
 *Players and Teams' attributes* sourced from EA Sports' FIFA video game series, including the weekly updates
 
+Result
+----------------------
+
+The Deep FNN gives us 53.19% Accuracy in test set and 53.12% accuracy in validation.
+The Random Forest gives us 46.5% Accuracy in test set
+
 Installation
 ----------------------
 
@@ -36,7 +42,7 @@ Installation
 ### Install the requirements
  
 * Install the requirements using `pip install -r requirements.txt`.
-    * Make sure you use Python 3.
+    * Make sure you use Python 2.7.
     * You may want to use a virtual environment for this.
 
 Usage
