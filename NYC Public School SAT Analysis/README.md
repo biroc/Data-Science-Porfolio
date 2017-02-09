@@ -47,21 +47,13 @@ The Detail information of Data and its download link are list below
 Installation
 ----------------------
 
-### Download the data
+### Download the Repo
 
 * Clone this repo to your computer.
 
 * Get into the folder using `cd NYC Public School SAT Analysis`.
 
-* Switch into the `data` directory using `cd data`.
-
-* Download the data files from the above links
-
-* Extract all of the `.zip` files you downloaded.
-
-* Remove all the zip files by running `rm *.zip`.
-
-* Switch back into the `NYC Public School SAT Analysis` directory using `cd ..`.
+* Data already in the Data folder
 
 ### Install the requirements
  
