@@ -37,7 +37,7 @@ Installation
 
 * Remove all the zip files by running `rm *.zip`.
 
-* Switch back into the `loan-prediction` directory using `cd ..`.
+* Switch back into the `soccer-prediction` directory using `cd ..`.
 
 ### Install the requirements
  
@@ -49,7 +49,7 @@ Usage
 -----------------------
 
 * Run `mkdir Processed` to create a directory for our processed datasets.
-* Run  `clean.ipynb` in jupyter notebook to combine the `Acquisition` and `Performance` datasets.
+* Run  `clean.ipynb` in jupyter notebook to combine the sql dataset and clean the data
     * This will create `clean_data.csv` in the `Processed` folder.
 * Run `classic.ipynd`.
     * This will create random forest prediction results
