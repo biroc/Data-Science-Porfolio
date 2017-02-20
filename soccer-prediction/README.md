@@ -54,4 +54,4 @@ Usage
 * Run `classic.ipynd`.
     * This will create random forest prediction results
 * Run `FNN.ipynd`.
-    * This will cread Forward Neural network prediction results
+    * This will create Forward Neural network prediction results
