@@ -19,6 +19,14 @@ Positive/Negative Score:
 
 This is the percentage of all words in the article that were found to have a positive/negative emotional connotation. Ranges from 0 to +100.
 
+Overall Tones:
+
+Average Tones of Chinese News: 0.07135
+
+Average Tones of U.S. News: -1.2975
+
+Average tones of U.K. News: -0.776
+
 Output Analysis Result
 ------------------------------------------
 
