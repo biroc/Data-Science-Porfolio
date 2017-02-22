@@ -72,3 +72,15 @@ Usage
 * Run `theme_spark.ipynd` in jupyter notebook to analyze global news average tone in Spark framework
     * This will create China/US/UK's global news tone with special topic
 
+## Indexing
+
+1. [Input Data](#Input-Data)
+2. [Merging Dataset](#Merging-Dataset)
+3. [Filtering Theme](#Filtering-Theme)
+4. [Cleaning Data](#Cleaning-Data)
+5. [Calculating worldwide Average Tones of News from China, US, UK](#Calculating-worldwide-Average-Tones-of-News-from-China,-US,-UK)
+6. [Filtering Result](#Filtering-Result)
+7. [Visualizaing Worldwide Average Tone](#Visualizaing-Worldwide-Average-Tone)
+
+
+## Input Data
