@@ -1,7 +1,7 @@
-Global News Tone Analysis and Visulization
+Global News Sentiment Analysis and Visulization
 ------------------------------------------
 
-Analyze global news average tone from GDELT Global Knowledge Pubic Dataset in Big Query
+Analyze global news average sentiment from GDELT Global Knowledge Pubic Dataset in Big Query
 
 100,000,000 global news with domain, tone, country mentioned in the news attributes.
 Tones toward other countries is calculated based on the countries mentioned in the news and the normalized average new tone.
@@ -13,7 +13,7 @@ Background Information
 
 Tone:
 
-This is the average “tone” of the document as a whole.The score ranges from -100 (extremely negative) to +100 (extremely positive). Common values range between -10 and +10, with 0 indicating neutral. This is calculated as Positive Score minus Negative Score.
+This is the average “Sentiment” of the document as a whole.The score ranges from -100 (extremely negative) to +100 (extremely positive). Common values range between -10 and +10, with 0 indicating neutral. This is calculated as Positive Score minus Negative Score.
 
 Positive/Negative Score:
 
